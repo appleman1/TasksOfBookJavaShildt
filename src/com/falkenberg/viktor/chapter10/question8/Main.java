@@ -1,4 +1,4 @@
-package com.falkenberg.viktor.chapter8;
+package com.falkenberg.viktor.chapter10.question8;
 
         /*Перепишите программу, созданную в 7 вопросе, таким образом, чтобы
         в ней использовались классы, представляющие символьные потоки. На этот раз
